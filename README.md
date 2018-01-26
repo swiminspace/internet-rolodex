@@ -7,8 +7,9 @@ A rolodex of all emails and user profiles on the internet.
 * Send to your sponsoring principle (CarolyAnn)
 * Get assigned to a sub-project (Suzanne)
 
-## Logging into the HPC
+## Logging in
 
+* You mind want to peruse the [documentation for your cluster](https://www.erdc.hpc.mil/docs/topazUserGuide.html).
 * Follow the instructions for configuring [PKINIT](https://centers.hpc.mil/users/pkinitUserGuide.html)
 * To set up Spark, add the following lines to ```~/.bash_profile```:
 
@@ -20,4 +21,4 @@ SPARK_HOME=/app/DAAC/spark/spark-$SPARK_VERSION/
 
 ## Running Jobs
 
-
+* https://daac.hpc.mil/software/Spark/
