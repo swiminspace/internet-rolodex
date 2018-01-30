@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-#PBS -l select=3:ncpus=36:mpiprocs=36,walltime=00:10:00
+#PBS -l select=3:ncpus=36:mpiprocs=36,walltime=00:00:05
 #PBS -N spark-test
-#PBS -A [YOUR_PROJECT_HERE]
+#PBS -A USMAN37466EE3
 #PBS -q debug
 
 nodes=($( cat $PBS_NODEFILE | sort | uniq ))
