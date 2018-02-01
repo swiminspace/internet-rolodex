@@ -4,7 +4,7 @@ A rolodex of all emails and user profiles on the internet.
 ## Getting an HPC Account
 
 * Get your Cyber Awareness Certificate
-* Send to your sponsoring principle (CarolyAnn)
+* Send to your sponsoring principle (CarolAnn)
 * Get assigned to a sub-project (Suzanne)
 
 ## Logging in
